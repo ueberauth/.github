@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ueberauth Slack Channel
+    url: https://elixir-lang.slack.com/archives/C0ETJ9081
+    about: Our Elixir Slack Channel.
